@@ -1,6 +1,8 @@
-#This is an example for students to follow for assignment
+# This is an example for students to follow for assignment
 
 # NYC crime tracker
+
+~ https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc/data
 
 * The program is a tracker of New york city's crime , to track id the decrease in covid hospitaliotns ans mask use has deceased crime
 
