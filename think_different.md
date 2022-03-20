@@ -5,7 +5,7 @@
 - The school that I work at is located in Queens. Our school population is largely Bengali, and hispanic so if lessons require alot of instruction I print out a translated lesson.
 
 - This way students can follow along while they work. Also when teaching AP computer science I use code hs has the lessons as a youtube video. This allows a visual that can also have translated captions.
-
+git add .
 
 ### Small group insturuction
 
