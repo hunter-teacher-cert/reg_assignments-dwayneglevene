@@ -5,7 +5,7 @@
 # Instructions
     * Comments should be in your cde to explain to the user or a future partner how the code should be working
 
-    * Import a l;ibrary to make a bar graph for your data
+    * Import a library to make a bar graph for your data
 
 
     * Find the bottom and top choice charactrs from the avengers
